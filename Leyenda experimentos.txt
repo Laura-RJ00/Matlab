@@ -1,0 +1,16 @@
+LEYENDA EXPERIMENTOS
+
+Para aclararnos a la hora de nombrar a los archivos de los resultados.
+
+
+
+Conductancia excitatoria/inhibitoria (nS)			Concentracion  ATP
+
+						0.1 mmol/L 				0.5 mmol/L
+
+		2/4				Experimento1				Experimento7
+		6/4				Experimento2				Experimento8
+		10/4				Experimento3				Experimento9
+		2/8				Experimento4				Experimento10
+		6/8				Experimento5				Experimento11
+		10/8				Experimento6				Experimento12
